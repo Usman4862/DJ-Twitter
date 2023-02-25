@@ -3,7 +3,7 @@ from tweets.models import Tweet
 
 # Register your models here.
 @admin.register(Tweet)
-class Tweet_Class(admin.ModelAdmin):
+class Tweet_Admin(admin.ModelAdmin):
     list_display= ['author', 'created_at', 'updated_at', 'content']
     date_hierarchy= 'created_at'
     actions_on_top= True # this creates action on the top
