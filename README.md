@@ -1,6 +1,6 @@
-#DJ Twitter
+# DJ Twitter
 
-##DJ Twitter is a simple Django application that allows users to post tweets and view them on a page. It was created as a learning project to demonstrate how to build a basic web application using Django.
+## DJ Twitter is a simple Django application that allows users to post tweets and view them on a page. It was created as a learning project to demonstrate how to build a basic web application using Django.
 
 **Installation**
 
